@@ -1,0 +1,22 @@
+<component name="libraryTable">
+  <library name="org.sakaiproject.nakamura:org.sakaiproject.nakamura.mysql-driver:5.1.13-1.4" type="repository">
+    <properties maven-id="org.sakaiproject.nakamura:org.sakaiproject.nakamura.mysql-driver:5.1.13-1.4" />
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/sakaiproject/nakamura/org.sakaiproject.nakamura.mysql-driver/5.1.13-1.4/org.sakaiproject.nakamura.mysql-driver-5.1.13-1.4.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/mysql/mysql-connector-java/5.1.13/mysql-connector-java-5.1.13.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/felix/org.apache.felix.scr.annotations/1.6.0/org.apache.felix.scr.annotations-1.6.0.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/sakaiproject/nakamura/org.sakaiproject.nakamura.core/1.4/org.sakaiproject.nakamura.core-1.4.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/javax/servlet/servlet-api/2.4/servlet-api-2.4.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/commons-pool/commons-pool/1.5/commons-pool-1.5.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/commons-lang/commons-lang/2.5/commons-lang-2.5.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/commons-io/commons-io/1.4/commons-io-1.4.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/commons-codec/commons-codec/1.4/commons-codec-1.4.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/googlecode/guava-osgi/guava-osgi/9.0.0/guava-osgi-9.0.0.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/slf4j/slf4j-api/1.5.10/slf4j-api-1.5.10.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/mockito/mockito-all/1.8.5/mockito-all-1.8.5.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/findbugs/annotations/1.0.0/annotations-1.0.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
